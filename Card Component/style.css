@@ -1,0 +1,169 @@
+body{
+    background-color: rgb(236, 235, 231);
+}
+
+.center-main{
+    position: absolute;
+    left:1px;
+    top:130px;
+}
+
+.SUV{
+    background-color:#4E6E81;
+    height: 400px;
+    width: 250px;
+    position: absolute;
+    left: 320px;
+}
+
+.SUV img{
+    position: absolute;
+    top: 25px;
+    height: 35px;
+    width: 60px;
+    margin-left: 25px;
+}
+.SUV h1{
+    position: absolute;
+    top:70px;
+    margin-left:25px;
+    line-height: 1;
+    color: white;
+}
+.SUV p{
+    position: absolute;
+    top: 150px;
+    left: 25px;
+    line-height: 2;
+    font-size: 15px;
+    margin-right: 10px;
+    color: white;
+}
+
+.SUV .button-type{
+    background-color:#4E6E81;
+    color: white;
+    position: absolute;
+    top:350px;
+    left:30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-style:groove;
+    border-radius: 15px;
+    border-color: white;
+}
+
+.SUV .button-type:hover{
+    color: black;
+}
+
+
+
+.SEDANS{
+    background-color:#245953;
+    height: 400px;
+    width: 250px;
+    position: absolute;
+    left: 570px;
+}
+
+.SEDANS img{
+    position: absolute;
+    top: 25px;
+    background-color: #245953;
+    height: 35px;
+    width: 60px;
+    margin-left: 25px;
+}
+.SEDANS h1{
+    position: absolute;
+    top:70px;
+    margin-left:25px;
+    line-height: 1;
+    color: white;
+}
+.SEDANS p{
+    position: absolute;
+    top: 150px;
+    left: 25px;
+    line-height: 2;
+    font-size: 15px;
+    margin-right: 10px;
+    color: white;
+}
+
+.SEDANS .button-type{
+    background-color:#245953;
+    color: white;
+    position: absolute;
+    top:350px;
+    left:30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-style:groove;
+    border-radius: 15px;
+    border-color: white;
+}
+
+.SEDANS .button-type:hover{
+    color: black;
+}
+
+.LUXURY{
+    background-color: #009FBD;
+    height: 400px;
+    width: 250px;
+    position: absolute;
+    left: 820px;
+}
+
+.LUXURY img{
+    position: absolute;
+    top: 25px;
+    height: 35px;
+    width: 60px;
+    margin-left: 25px;
+}
+.LUXURY h1{
+    position: absolute;
+    top:70px;
+    margin-left:25px;
+    line-height: 1;
+    color: white;
+}
+.LUXURY p{
+    position: absolute;
+    top: 150px;
+    left: 25px;
+    line-height: 2;
+    font-size: 15px;
+    margin-right: 10px;
+    color: white;
+}
+
+.LUXURY .button-type{
+    background-color: #009FBD;
+    color: white;
+    position: absolute;
+    top:350px;
+    left:30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-style:groove;
+    border-radius: 15px;
+    border-color: white;
+}
+
+.LUXURY .button-type:hover{
+    color: black;
+}
+
+
+
+
